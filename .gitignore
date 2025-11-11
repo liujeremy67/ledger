@@ -1,0 +1,35 @@
+# Build artifacts
+bin/
+build/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Coverage reports
+coverage.*
+*.cover
+*.coverprofile
+
+# Dependency bundles
+vendor/
+
+# Logs
+*.log
+
+# IDE/editor cruft
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+
+# Environment configuration
+.env
+.env.test
